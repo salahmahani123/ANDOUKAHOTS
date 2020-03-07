@@ -1,0 +1,167 @@
+
+fe80::12:34:56:78%eth0 .net
+fe80::12:34:56:78%eth0 .com
+2001:db8:123:456::78 .com
+2001:db8:123:456::78 .net
+9.8.7.6 localhost
+9.8.7.6 localhost.localdomain
+9.8.7.6 local
+255.255.255.255 broadcasthost
+::1localhost
+::1ip6-localhost
+::1ip6-loopback
+fe80::1%lo0localhost
+ff00::0ip6-localnet
+ff00::0ip6-mcastprefix
+ff02::1ip6-allnodes
+ff02::2ip6-allrouters
+ff02::3ip6-allhosts
+9.8.7.6 9.8.7.6 
+127.0.0.1 local-host 
+:1        ip-6 localhost 
+49.51.67.140 lobby.igamecj.com
+150.109.35.246 vnglobby.igamecj.com
+9.8.7.6 .cnzz
+119.28.147.30 krlobby.igamecj.com
+9.8.7.6 .tv
+13.225.62.39 battlegroundsmobile.kr
+9.8.7.6 .cn
+150.109.200.70 twlobby.igamecj.com
+9.8.7.6 .org
+124.156.64.48 in.voice.gcloudcs.com
+9.8.7.6 .net
+9.8.7.6 .pe
+31.13.71.1 api.facebook.com
+9.8.7.6 .club
+9.8.7.6 .co
+9.8.7.6 .pk
+9.8.7.6 .link
+9.8.7.6 .io
+9.8.7.6 .ru
+9.8.7.6 .tencent
+9.8.7.6 .ig
+9.8.7.6 .ai
+
+9.8.7.6 .cc
+9.8.7.6 .pl
+9.8.7.6 .cm
+9.8.7.6 .uk
+9.8.7.6 .uk
+9.8.7.6 .sg
+9.8.7.6 .il
+9.8.7.6 .lk
+9.8.7.6 .us
+104.244.42.2 api.twitter.com
+9.8.7.6 .com
+104.244.42.65 twitter.com
+31.13.71.36 facebook.com
+101.226.233.246 vmp.qq.com
+150.109.29.135 astat.bugly.qcloud.com
+95.216.72.85gameguardian.net
+9.8.7.6 .proximabeta.com
+9.8.7.6 .proximabeta.com
+127.0.0.1 local-host 
+:1        ip-6 localhost 
+54.219.159.56 pubgmobile.helpshift.com
+20.37.82.21 meping.igamecj.com
+169.57.193.239 saping.igamecj.com
+49.51.230.89 naping.igamecj.com
+211.152.148.76 file.igamecj.com.d1.download.ettdnsv.com
+172.217.6.193 lh5.googleusercontent.com
+49.51.67.236 ig-us-sdkapi.igamecj.com
+127.0.0.1 local-host 
+:1        ip-6 localhost 
+9.8.7.6 .weiyun.com
+9.8.7.6 ffff:cbcd:8a9f.weiyun.com
+9.8.7.6 .myapp.com
+9.8.7.6 ffff:cbcd:8b4f.myapp.com
+9.8.7.6 .qmail.com
+9.8.7.6 ffff:cbcd:8a1f.qmail.com
+9.8.7.6 .qzone.com
+9.8.7.6 ffff:cbcd:874f.qzone.com
+9.8.7.6 .hk
+9.8.7.6 ffff:cbcd:8acf.hk
+9.8.7.6 .qqgames.com
+9.8.7.6 ffff:cbcd:8k4f.qqgames.com
+9.8.7.6 .qqmail.com
+9.8.7.6 ffff:cbcd:8n4f.qqmail.com
+9.8.7.6 .superfix.com
+9.8.7.6 ffff:cbcd:4a4f.superfix.com
+9.8.7.6 .qq.com
+9.8.7.6 ffff:cbcd:8a0f.qq.com
+9.8.7.6 .cn
+9.8.7.6 ffff:gro1:ot53.cn
+9.8.7.6 .cnzz.com
+9.8.7.6 ffff:gr22:otg3.cnzz.com
+9.8.7.6 .lk
+9.8.7.6 f4ff:grl2:otg3.GR00t.lk
+9.8.7.6 .net
+9.8.7.6 ffff:gr32:ot93.net
+9.8.7.6 .googletagmanager.com
+9.8.7.6 ffff:cff2:c7og.googletagmanager.com
+9.8.7.6 .google.com
+9.8.7.6 ffff:cf92:cfog.google.com
+9.8.7.6 .googleusercontent.com
+9.8.7.6 ffff:cf92:c7of.googleusercontent.com
+9.8.7.6 .proximabeta.com
+127.0.0.1 local-host 
+:1        ip-6 localhost 
+49.51.42.201 download.2.1375135419.igame.gcloudcs.com
+119.28.244.50 download.2.1375135419.igame.gcloudcs.com
+119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
+127.0.0.1 local-host 
+:1        ip-6 localhost 
+9.8.7.6 ffff:g1ro:groo.proximabeta.com
+9.8.7.6 .pubgmobile.com
+9.8.7.6 ffff:g1ro:g9oo.pubgmobile.com
+9.8.7.6 .tencent.com
+9.8.7.6 ffff:grot:gr6t.tencent.com
+9.8.7.6 .sl-reverse.com
+9.8.7.6 ffff:grot:gr6t.sl-reverse.com
+9.8.7.6 .qcloud.com
+9.8.7.6 ffff:grot:gr6t.qcloud.com
+9.8.7.6 .tencent.com
+9.8.7.6 ffff:grot:gr6t.tencent.com
+9.8.7.6 .me
+9.8.7.6 ffff:grot:g76t.me
+9.8.7.6 .twimg.com
+9.8.7.6 ffff:grot:gr9t..twimg.com
+9.8.7.6 .igame.gcloudcs.com
+9.8.7.6 ffff:grot:gr8t.igame.gcloudcs.com
+9.8.7.6 .org
+9.8.7.6 ffff:grot:gr7t.org
+9.8.7.6 .helpshift.com
+9.8.7.6 ffff:cf55:c9be.helpshift.com
+9.8.7.6 .fbsbx.com
+9.8.7.6 ffff:cf7l:cg9e.fbsbx.com
+9.8.7.6 .userapi.com
+9.8.7.6 ffff:cfff:cg99.userapi.com
+9.8.7.6 graph.facebook.com
+9.8.7.6 ffff:cf3f:cgf9graph.facebook.com
+9.8.7.6 scgt.reverse.com
+9.8.7.6 ffff:cflf:cg19scgt.reverse.com
+9.8.7.6 app.adjust.com
+9.8.7.6 ffff:cfl2:c7ggapp.adjust.com
+9.8.7.6 file.igamecj.com
+9.8.7.6 ffff:ckl2:c7ggapp.adjust.com
+9.8.7.6 .intellitxt.com
+9.8.7.6 f8ff:cff2:c7gg.intellitxt.com
+9.8.7.6 pay.igamecj.com
+
+9.8.7.6 ffff:cf92:c7ogpay.igamecj.com
+9.8.7.6 hkspeed.igamecj.com
+9.8.7.6 ffff:cf22:c4oghkspeed.igamecj.com
+9.8.7.6 .weiyun.com
+9.8.7.6 ffff:cfk2:c4o2.weiyun.com
+9.8.7.6 .actencent.com
+9.8.7.6 ffff:cgk2:c4og.actencent.com
+9.8.7.6 .gclouds.com
+9.8.7.6 ffff:cge2:coog.gclouds.com
+9.8.7.6 .gstatic.com
+9.8.7.6 ff8f:c2e2:coog.gstatic.com
+9.8.7.6 .googlevideocom
+9.8.7.6 f88f:c2g2:coog.googlevideocom
+9.8.7.6 .googleapis.com
+9.8.7.6 f88f:c2g2:coog.googleapis.com
+9.8.7.6 .googlesyndication.com
+9.8.7.6 f88f:c2g2:coog.googlesyndication.com
