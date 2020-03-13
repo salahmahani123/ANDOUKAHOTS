@@ -1,11 +1,7 @@
-
-                          #------BY ---Mr.GrootYT-Host [V24-IPv6]-----------#
-#------Use groot host loader else it want wark!---------#
+#---------ALMOHTAL-Host-----------#
+#------Use groot VGH  loader else it want wark!---------#
 #<localhost>
-fe80::12:34:56:78%eth0 .net 
-fe80::12:34:56:78%eth0 .com
-2001:db8:123:456::78 .com
-2001:db8:123:456::78 .net
+
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -21,262 +17,63 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 #</localhost>
-49.51.67.140 lobby.igamecj.com
-150.109.35.246 vnglobby.igamecj.com
-0.0.0.0 .cnzz
-119.28.147.30 krlobby.igamecj.com
-0.0.0.0 .tv
-13.225.62.39 battlegroundsmobile.kr
-0.0.0.0 .cn
-150.109.200.70 twlobby.igamecj.com
-0.0.0.0 .org
-124.156.64.48 in.voice.gcloudcs.com
-0.0.0.0 .net
-0.0.0.0 .pe
-31.13.71.1 api.facebook.com
-0.0.0.0 .club
-0.0.0.0 .co
-0.0.0.0 .pk
-0.0.0.0 .link
-0.0.0.0 .io
-0.0.0.0 .ru
-0.0.0.0 .tencent
-0.0.0.0 .ig
-0.0.0.0 .ai
-#groot#groot#
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0.0.0.0 .cc
-0.0.0.0 .pl
-0.0.0.0 .cm
-0.0.0.0 .uk
-0.0.0.0 .uk
-0.0.0.0 .sg
-0.0.0.0 .il
-0.0.0.0 .lk
-0.0.0.0 .us
-104.244.42.2 api.twitter.com
-0.0.0.0 .com
-104.244.42.65 twitter.com
-31.13.71.36 facebook.com
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-#<PubgAntibanHost V24>
-# By Mr.Groot.YT
-#Telegram @mrgrootofficial
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-## uncomment the following line if you use 3rd party injector..etc
-#101.226.233.246 vmp.qq.com
-#150.109.29.135 astat.bugly.qcloud.com
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-## uncomment the following line to allow  the gamegurdian to check update
-#95.216.72.85 gameguardian.net
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-  
- 0.0.0.0 .proximabeta.com
 
-## uncomment the following line to allow  the gamegurdian to check update
-0.0.0.0 .proximabeta.com
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-## uncomment the following line to allow  the pubg's helpshift system
-#54.219.159.56 pubgmobile.helpshift.com
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-## uncomment the following line to fix high ping error in lobby
-#20.37.82.21 meping.igamecj.com
-#169.57.193.239 saping.igamecj.com
-#49.51.230.89 naping.igamecj.com 
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-## uncomment the following line to allow pubg to download maps,items..etc
-#211.152.148.76 file.igamecj.com.d1.download.ettdnsv.com
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-## uncomment the following line to join gobel teams
-#172.217.6.193 lh5.googleusercontent.com
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-#comment the follow line if you know when you need this
-49.51.67.236 ig-us-sdkapi.igamecj.com
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-  
-0.0.0.0 .weiyun.com
-0:0:0:0:0:ffff:cbcd:8a9f .weiyun.com
-0.0.0.0 .myapp.com
-0:0:0:0:0:ffff:cbcd:8b4f .myapp.com
-0.0.0.0 .qmail.com
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ffff:cbcd:8a1f .qmail.com
-0.0.0.0 .qzone.com
-0:0:0:0:0:ffff:cbcd:874f .qzone.com
-0.0.0.0 .hk
-0:0:0:0:0:ffff:cbcd:8acf .hk
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0.0.0.0 .qqgames.com
-0:0:0:0:0:ffff:cbcd:8k4f .qqgames.com
-0.0.0.0 .qqmail.com
-0:0:0:0:0:ffff:cbcd:8n4f .qqmail.com
-0.0.0.0 .superfix.com
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ffff:cbcd:4a4f .superfix.com
-0.0.0.0 .qq.com
-0:0:0:0:0:ffff:cbcd:8a0f .qq.com
-0.0.0.0 .cn
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-0:0:0:0:0:ffff:gro1:ot53 .cn
-0.0.0.0 .cnzz.com
-0:0:0:0:0:ffff:gr22:otg3 .cnzz.com
-0.0.0.0 .GR00t.lk
-0:0:0:0:0:f4ff:grl2:otg3 .GR00t.lk
-0.0.0.0 .net
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ffff:gr32:ot93 .net
-0.0.0.0 .googletagmanager.com
-0:0:0:0:0:ffff:cff2:c7og .googletagmanager.com
-0.0.0.0 .google.com
-0:0:0:0:0:ffff:cf92:cfog .google.com
-0.0.0.0 .googleusercontent.com
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ffff:cf92:c7of .googleusercontent.com
-0.0.0.0 .proximabeta.com
-#comment the follow line if you are using mod packs, bypass update.. etc
-49.51.42.201 download.2.1375135419.igame.gcloudcs.com
-119.28.244.50 download.2.1375135419.igame.gcloudcs.com
+#<PubgAntibanHost>
+# By ANDOUKA
+#Telegram @ALMOHTAL1
+
+119.28.183.144 download.2.1375135419.igame.gcloudcs.com
+49.51.67.236 meping.igamecj.com
+150.109.29.135 saping.igamecj.com
 119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  ##<PubgAntibanHost V24>
-0:0:0:0:0:ffff:g1ro:groo .proximabeta.com
-0.0.0.0 .pubgmobile.com
-0:0:0:0:0:ffff:g1ro:g9oo .pubgmobile.com
-0.0.0.0 .tencent.com
-0:0:0:0:0:ffff:grot:gr6t .tencent.com
-0.0.0.0 .sl-reverse.com
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ffff:grot:gr6t .sl-reverse.com
-0.0.0.0 .qcloud.com
-0:0:0:0:0:ffff:grot:gr6t .qcloud.com
-0.0.0.0 .tencent.com
-0:0:0:0:0:ffff:grot:gr6t .tencent.com
-0.0.0.0 .me
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-0:0:0:0:0:ffff:grot:g76t .me
-0.0.0.0 .twimg.com
-0:0:0:0:0:ffff:grot:gr9t ..twimg.com
-0.0.0.0 .igame.gcloudcs.com
-0:0:0:0:0:ffff:grot:gr8t .igame.gcloudcs.com
-0.0.0.0 .org
-0:0:0:0:0:ffff:grot:gr7t .org
-0.0.0.0 .helpshift.com
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ffff:cf55:c9be .helpshift.com
-0.0.0.0 .fbsbx.com
-0:0:0:0:0:ffff:cf7l:cg9e .fbsbx.com
-0.0.0.0 .userapi.com
-0:0:0:0:0:ffff:cfff:cg99 .userapi.com
-0.0.0.0 graph.facebook.com
-0:0:0:0:0:ffff:cf3f:cgf9 graph.facebook.com
-0.0.0.0 scgt.reverse.com
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ffff:cflf:cg19 scgt.reverse.com
-0.0.0.0 app.adjust.com
-0:0:0:0:0:ffff:cfl2:c7gg app.adjust.com
-0.0.0.0 file.igamecj.com
-0:0:0:0:0:ffff:ckl2:c7gg app.adjust.com
-0.0.0.0 .intellitxt.com
-0:0:0:0:0:f8ff:cff2:c7gg .intellitxt.com
-0.0.0.0 pay.igamecj.com
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ffff:cf92:c7og pay.igamecj.com
-0.0.0.0 hkspeed.igamecj.com
-0:0:0:0:0:ffff:cf22:c4og hkspeed.igamecj.com
-0.0.0.0 .weiyun.com
-0:0:0:0:0:ffff:cfk2:c4o2 .weiyun.com
-0.0.0.0 .actencent.com
-0:0:0:0:0:ffff:cgk2:c4og .actencent.com
-0.0.0.0 .gclouds.com
-0:0:0:0:0:ffff:cge2:coog .gclouds.com
-0.0.0.0 .gstatic.com
-#" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
-0:0:0:0:0:ff8f:c2e2:coog .gstatic.com
-0.0.0.0 .googlevideocom
-0:0:0:0:0:f88f:c2g2:coog .googlevideocom
-0.0.0.0 .googleapis.com
-0:0:0:0:0:f88f:c2g2:coog .googleapis.com
-0.0.0.0 .googlesyndication.com
-0:0:0:0:0:f88f:c2g2:coog .googlesyndication.com
+119.28.35.248 lobby.igamecj.com
+150.109.35.246 vnglobby.igamecj.com
+119.28.147.30 krlobby.igamecj.com
+150.109.200.70 twlobby.igamecj.com
+119.28.250.64 in.voice.gcloudcs.com
+31.13.79.18 api.facebook.com
+104.244.42.2 api.twitter.com
+104.244.42.129 twitter.com
+31.13.79.35 facebook.com
+8.8.8.8 .net
+8.8.8.8 .com
+49.51.67.236 .cn
+49.51.67.236 .cnzz
+49.51.67.236 .jp
+49.51.67.236 .pw
+49.51.67.236 .cc
+49.51.67.236 .us
+150.109.29.135 saping.igamecj.com
+169.57.193.239 pubgmobile.helpshift.com
+101.226.233.246 meping.igamecj.com
+203.205.137.242 naping.igamecj.com
+170.106.134.228 uping.igamecj.com
+125.214.166.8 hkping.igamecj.come
+211.152.148.76 file.igamecj.com.d1.download.ettdnsv.com
+172.217.6.193 lh5.googleusercontent.com
+49.51.67.236 ig-us-sdkapi.igamecj.com
+
+#</PubgAntibanHost>
 
 
-# By Mr.Groot.YT
-#Telegram @mrgrootofficial
- #" "#   #"  " #" "#  #" "#    #
- #   #   #     #   #  #   #    ###
- "#m"#   #     "#m#"  "#m#"    #"mm
-  m  #
 
-# By Mr.Groot.YT
-#Telegram @mrgrootofficial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
